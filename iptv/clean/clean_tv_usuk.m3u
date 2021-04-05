@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ABC News" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/abcnews.png",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-name="Adult Swim" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/adultswim.png",Adult Swim
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+#EXTINF:-1 tvg-name="JUCE TV" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/jucetv.png",JUCE TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8
+#EXTINF:-1 tvg-name="NASA TV" tvg-id="NASA.us" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/nasatv.png",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-name="CBSN" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/cbsn.png",CBSN
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
+#EXTINF:-1 tvg-name="CBN News" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/cbnnews.png",CBN News
+https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_3000_av-p.m3u8
+#EXTINF:-1 tvg-name="Bloomberg TV" tvg-id="Bloomberg.nws" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/bloombergtv.png",Bloomberg TV
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-name="SBN" tvg-id="SonLife.uk" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/sbn.png",SBN
+https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/ch70/ch70.m3u8
+#EXTINF:-1 tvg-name="GOD TV" tvg-id="GODChannel.uk" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/godtv.png",GOD TV
+https://zypelive-lh.akamaihd.net/i/default_1@745545/index_720_av-p.m3u8
+#EXTINF:-1 tvg-name="Voice of America" tvg-id="VOA.com" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/voiceofamerica.png",Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:-1 tvg-name="KTVU Fox 2" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/ktvufox2.png",KTVU Fox 2
+http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
+#EXTINF:-1 tvg-name="MSNBC" tvg-id="MSNBC.us" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/msnbc.png",MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8
+#EXTINF:-1 tvg-name="WGN-TV" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/wgntv.png",WGN-TV
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-name="CMC" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/cmc.png",CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+#EXTINF:-1 tvg-name="Hunt Channel" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/huntchannel.png",Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1 tvg-name="Create & Craft TV" tvg-id="CreateCraft.uk" group-title="IPTV-UK" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/createandcraft.png",Create & Craft TV
+https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
+#EXTINF:-1 tvg-name="Capital TV" tvg-id="CapitalTV.uk" group-title="IPTV-UK" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/capitaltv.png",Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:-1 tvg-name="Heart TV" tvg-id="HeartTV.uk" group-title="IPTV-UK" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/hearttv.png",Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-b.m3u8
+#EXTINF:-1 tvg-name="Sky News" tvg-id="SkyNews.uk" group-title="IPTV-UK" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/skynews.png",Sky News
+https://www.youtube.com/embed/9Auq9mYxFEE
+#EXTINF:-1 tvg-name="London Live" tvg-id="LondonLive.uk" group-title="IPTV-UK" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/londonlive.png",London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8

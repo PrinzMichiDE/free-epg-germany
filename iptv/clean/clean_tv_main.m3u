@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/daserstehd.png",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master_3628.m3u8
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/zdfhd.png",ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/3sat.png",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/artehd.png",ARTE HD
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="ServusTV HD" tvg-id="ServusHD.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/servustvhd.png",ServusTV HD
+https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8
+#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/ardalpha.png",ARD-alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_3660_av-p.m3u8
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/onehd.png",one HD
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_4_av-p.m3u8
+#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/zdfneohd.png",ZDFneo HD
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/zdfinfohd.png",ZDFinfo HD
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/phoenix.png",phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/tagesschau24.png",tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8
+#EXTINF:-1 tvg-name="WELT" tvg-id="n24.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/welt.png",WELT
+http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
+#EXTINF:-1 tvg-name="euronews deutsch" tvg-id="euronews.com" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/euronews.png",euronews deutsch
+https://www.youtube.com/embed/gdyuPcnSDuY
+#EXTINF:-1 tvg-name="Sky Sport News HD" tvg-id="SkySportNewsHD.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/skysportnewshd.png",Sky Sport News HD
+https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
+#EXTINF:-1 tvg-name="ANIXE HD" tvg-id="AnixeSerie.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/anixehd.png",ANIXE HD
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 tvg-name="eoTV HD" tvg-id="eoTV.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/eotvhd.png",eoTV HD
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/playlist.m3u8
+#EXTINF:-1 tvg-name="RiC / eoTV" tvg-id="RiC.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/ric.png",RiC / eoTV
+https://www.youtube.com/embed/lpNnFuJXDV4
+#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/kika.png",KiKA
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nick.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/nickelodeon.png",Nickelodeon
+https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
+#EXTINF:-1 tvg-name="MTV Germany" tvg-id="MTVGermany.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/mtvgermany.png",MTV Germany
+https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8
+#EXTINF:-1 tvg-name="MTV Music 24" tvg-id="MTVMusic24" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/mtvgermany.png",MTV Music 24
+http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/master.m3u8
+#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-id="DeLuxeMusic.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/deluxemusic.png",DELUXE MUSIC
+https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="nice" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/nice.png",nice
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:4195-mbr.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-name="Folx TV" tvg-id="FolxTV.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/folxtv.png",Folx TV
+http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="Deutsches Musik Fernsehen" tvg-id="DeutschesMusikFernsehen.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/deutschesmusikfernsehen.png",Deutsches Musik Fernsehen
+https://tv.artcom-venture.de/dmf/tv_720.m3u8
+#EXTINF:-1 tvg-name="Bibel TV" tvg-id="BibelTV.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/bibeltv.png",Bibel TV
+https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Bibel TV Impuls" tvg-id="BibelTVImpuls.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/bibeltv.png",Bibel TV Impuls
+https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bibel TV Musik" tvg-id="BibelTVMusik.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/bibeltv.png",Bibel TV Musik
+http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="K-TV" tvg-id="KTV.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/ktv.png",K-TV
+http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 tvg-name="EWTN katholisches TV" tvg-id="EWTN.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/ewtnkatholischestv.png",EWTN katholisches TV
+https://cdn3.wowza.com/1/REZwSm9UWEFxcmt3/REROU1NK/hls/wstqs3gh/2728/chunklist.m3u8
+#EXTINF:-1 tvg-name="ERF 1" tvg-id="ERFeins.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/erf1.png",ERF 1
+http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/chunklist_w1563145417_b240000.m3u8
+#EXTINF:-1 tvg-name="health.tv" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/healthtv.png",health.tv
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="VISIT-X.tv" tvg-id="" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/tv/visitxtv.png",VISIT-X.tv
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8

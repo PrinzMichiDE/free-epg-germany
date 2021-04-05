@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="FM4" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/fm4.png",FM4
+https://orf-live.ors-shoutcast.at/fm4-q2a
+#EXTINF:-1 tvg-name="Hitradio Ö3" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/hitradiooe3.png",Hitradio Ö3
+https://orf-live.ors-shoutcast.at/oe3-q2a
+#EXTINF:-1 tvg-name="Klassik Radio" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/klassikradio.png",Klassik Radio
+http://klassikradio.hoerradar.de/klassikradio-live-mp3-mq
+#EXTINF:-1 tvg-name="KRONEHIT" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/kronehit.png",KRONEHIT
+http://onair.krone.at:80/kronehit.mp3
+#EXTINF:-1 tvg-name="KRONEHIT Dance" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/kronehit.png",KRONEHIT Dance
+http://onair.krone.at:80/kronehit-dance.mp3
+#EXTINF:-1 tvg-name="Life Radio" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/liferadio.png",Life Radio
+http://liferadio.stream.kapper.net:8000/liferadio
+#EXTINF:-1 tvg-name="Ö1" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/oe1.png",Ö1
+https://orf-live.ors-shoutcast.at/oe1-q2a
+#EXTINF:-1 tvg-name="Ö1 Campus" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/oe1.png",Ö1 Campus
+https://orf-live.ors-shoutcast.at/campus-q2a
+#EXTINF:-1 tvg-name="Radio Niederösterreich" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/radioniederoesterreich.png",Radio Niederösterreich
+https://orf-live.ors-shoutcast.at/noe-q2a
+#EXTINF:-1 tvg-name="Radio Steiermark" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/radiosteiermark.png",Radio Steiermark
+https://orf-live.ors-shoutcast.at/stm-q2a
+#EXTINF:-1 tvg-name="Radio Tirol" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/radiotirol.png",Radio Tirol
+https://orf-live.ors-shoutcast.at/tir-q2a
+#EXTINF:-1 tvg-name="Radio Wien" group-title="Radio-AT" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/radiowien.png",Radio Wien
+https://orf-live.ors-shoutcast.at/wie-q2a

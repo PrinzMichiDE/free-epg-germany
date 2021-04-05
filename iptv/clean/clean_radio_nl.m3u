@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="HitRadio Veronica" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/hitradioveronica.png",HitRadio Veronica
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR09.mp3
+#EXTINF:-1 tvg-name="Radio 538" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/radio538.png",Radio 538
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3
+#EXTINF:-1 tvg-name="Radio 538 Zomer" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/radio538.png",Radio 538 Zomer
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR06.mp3
+#EXTINF:-1 tvg-name="Radio 538 Dance Department" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/radio538.png",Radio 538 Dance Department
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3
+#EXTINF:-1 tvg-name="Radio 538 Drops" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/radio538.png",Radio 538 Drops
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08.mp3
+#EXTINF:-1 tvg-name="Radio 538 Hitzone" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/radio538.png",Radio 538 Hitzone
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3
+#EXTINF:-1 tvg-name="Radio 538 Ibiza" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/radio538.png",Radio 538 Ibiza
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19.mp3
+#EXTINF:-1 tvg-name="Radio 538 Non-Stop" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/radio538.png",Radio 538 Non-Stop
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3
+#EXTINF:-1 tvg-name="Radio 538 Party" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/radio538.png",Radio 538 Party
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3
+#EXTINF:-1 tvg-name="Radio 538 Top 50 Radio" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/radio538.png",Radio 538 Top 50 Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13.mp3
+#EXTINF:-1 tvg-name="Radio 538 Verrückte Stunde" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/radio538.png",Radio 538 Verrückte Stunde
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21.mp3
+#EXTINF:-1 tvg-name="Radio Veronica" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/radioveronica.png",Radio Veronica
+http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3
+#EXTINF:-1 tvg-name="Sky Radio 101 FM" group-title="Radio-NL" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/skyradio101fm.png",Sky Radio 101 FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3

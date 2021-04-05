@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Mouv'" group-title="Frankreich" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/mouv.png",Mouv'
+http://direct.mouv.fr/live/mouv-midfi.mp3
+#EXTINF:-1 tvg-name="Radio Nova" group-title="Frankreich" radio="true" tvg-logo="https://raw.githubusercontent.com/PrinzMichiDE/free-epg-germany/main/logos/radio/radionova.png",Radio Nova
+http://novazz.ice.infomaniak.ch/novazz-128.mp3
