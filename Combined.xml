@@ -1,0 +1,1433 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="epg_grabber">
+  <channel id="ARD">
+    <display-name>Das Erste</display-name>
+  </channel>
+    <channel id="ZDF">
+    <display-name>ZDF</display-name>
+  </channel>
+    <channel id="RTL">
+    <display-name>RTL</display-name>
+  </channel>
+    <channel id="SAT1">
+    <display-name>SAT.1</display-name>
+  </channel>
+    <channel id="PRO7">
+    <display-name>ProSieben</display-name>
+    <display-name>PRO7</display-name>
+  </channel>
+    <channel id="K1">
+    <display-name>kabel eins</display-name>
+    <display-name>KABEL1</display-name>
+  </channel>
+    <channel id="RTL2">
+    <display-name>RTL II</display-name>
+    <display-name>RTL2</display-name>
+  </channel>
+    <channel id="VOX">
+    <display-name>VOX</display-name>
+  </channel>
+    <channel id="3SAT">
+    <display-name>3sat</display-name>
+  </channel>
+    <channel id="ARTE">
+    <display-name>ARTE</display-name>
+  </channel>
+    <channel id="SERVU">
+    <display-name>ServusTV</display-name>
+    <display-name>SERVUS TV</display-name>
+  </channel>
+    <channel id="TELE5">
+    <display-name>Tele 5</display-name>
+    <display-name>TELE5</display-name>
+  </channel>
+    <channel id="DMAX">
+    <display-name>DMAX</display-name>
+  </channel>
+    <channel id="SIXX">
+    <display-name>sixx</display-name>
+  </channel>
+    <channel id="RTL-N">
+    <display-name>NITRO</display-name>
+    <display-name>RTL NITRO</display-name>
+  </channel>
+    <channel id="RTLPL">
+    <display-name>RTLplus</display-name>
+    <display-name>RTL PLUS</display-name>
+  </channel>
+    <channel id="SAT1G">
+    <display-name>SAT.1 Gold</display-name>
+  </channel>
+    <channel id="PRO7M">
+    <display-name>ProSieben MAXX</display-name>
+    <display-name>PRO7 MAXX</display-name>
+  </channel>
+    <channel id="CC">
+    <display-name>Comedy Central</display-name>
+    <display-name>CC</display-name>
+  </channel>
+    <channel id="WDR">
+    <display-name>WDR</display-name>
+  </channel>
+    <channel id="N3">
+    <display-name>NDR</display-name>
+  </channel>
+    <channel id="BR">
+    <display-name>BR</display-name>
+  </channel>
+    <channel id="SWR">
+    <display-name>SWR</display-name>
+  </channel>
+    <channel id="HR">
+    <display-name>HR</display-name>
+  </channel>
+    <channel id="MDR">
+    <display-name>MDR</display-name>
+  </channel>
+    <channel id="RBB">
+    <display-name>RBB</display-name>
+  </channel>
+    <channel id="SPORT">
+    <display-name>SPORT1</display-name>
+  </channel>
+    <channel id="S1PLU">
+    <display-name>SPORT1+</display-name>
+  </channel>
+    <channel id="ES1">
+    <display-name>eSports1</display-name>
+  </channel>
+    <channel id="EURO">
+    <display-name>Eurosport 1</display-name>
+    <display-name>EURO1</display-name>
+  </channel>
+    <channel id="EURO2">
+    <display-name>Eurosport 2</display-name>
+    <display-name>EURO2</display-name>
+  </channel>
+    <channel id="EX-SP">
+    <display-name>EXTREME SPORTS</display-name>
+    <display-name>EX SPORTS</display-name>
+  </channel>
+    <channel id="SPO-D">
+    <display-name>sportdigital</display-name>
+    <display-name>SPORT DIGITAL</display-name>
+  </channel>
+    <channel id="DAZN">
+    <display-name>DAZN</display-name>
+  </channel>
+    <channel id="SNHD">
+    <display-name>Sky Sport News</display-name>
+    <display-name>SKY S-NEWS</display-name>
+  </channel>
+    <channel id="MASPO">
+    <display-name>Magenta Sport</display-name>
+    <display-name>MAGENTA SP</display-name>
+  </channel>
+    <channel id="AMS">
+    <display-name>Auto Motor Sport</display-name>
+    <display-name>AMS</display-name>
+  </channel>
+    <channel id="KIKA">
+    <display-name>KiKA</display-name>
+  </channel>
+    <channel id="SUPER">
+    <display-name>SUPER RTL</display-name>
+  </channel>
+    <channel id="TOGGO">
+    <display-name>TOGGO plus</display-name>
+    <display-name>TOGGO</display-name>
+  </channel>
+    <channel id="RIC">
+    <display-name>RiC</display-name>
+  </channel>
+    <channel id="NICK">
+    <display-name>nick</display-name>
+  </channel>
+    <channel id="FFTV">
+    <display-name>Fix &amp; Foxi</display-name>
+    <display-name>FIX FOXI</display-name>
+  </channel>
+    <channel id="NICKJ">
+    <display-name>Nick Jr.</display-name>
+    <display-name>NICK JR</display-name>
+  </channel>
+    <channel id="NICKT">
+    <display-name>Nicktoons</display-name>
+    <display-name>NICK TOONS</display-name>
+  </channel>
+    <channel id="DISNE">
+    <display-name>Disney Channel</display-name>
+    <display-name>DISNEY</display-name>
+  </channel>
+    <channel id="PHOEN">
+    <display-name>PHOENIX</display-name>
+  </channel>
+    <channel id="ALPHA">
+    <display-name>ARD alpha</display-name>
+  </channel>
+    <channel id="FES">
+    <display-name>ONE</display-name>
+  </channel>
+    <channel id="2NEO">
+    <display-name>ZDFneo</display-name>
+    <display-name>ZDF NEU</display-name>
+  </channel>
+    <channel id="ZINFO">
+    <display-name>ZDFinfo</display-name>
+    <display-name>ZDF INFO</display-name>
+  </channel>
+    <channel id="DWTV">
+    <display-name>DW (Europe)</display-name>
+    <display-name>DW</display-name>
+  </channel>
+    <channel id="ANIXE">
+    <display-name>ANIXE</display-name>
+  </channel>
+    <channel id="BIBEL">
+    <display-name>Bibel TV</display-name>
+  </channel>
+    <channel id="KTV">
+    <display-name>K-TV</display-name>
+  </channel>
+    <channel id="TLC">
+    <display-name>TLC</display-name>
+  </channel>
+    <channel id="WDWTV">
+    <display-name>Welt der Wunder TV</display-name>
+    <display-name>WDW TV</display-name>
+  </channel>
+    <channel id="PLANE">
+    <display-name>Planet</display-name>
+  </channel>
+    <channel id="EOTV">
+    <display-name>eoTV</display-name>
+  </channel>
+    <channel id="GUSTO">
+    <display-name>Bon Gusto</display-name>
+  </channel>
+    <channel id="GOLD">
+    <display-name>Goldstar TV</display-name>
+    <display-name>GOLD STAR</display-name>
+  </channel>
+    <channel id="HGTV">
+    <display-name>Home &amp; Garden TV</display-name>
+    <display-name>HOME&amp;GARDEN</display-name>
+  </channel>
+    <channel id="FLN">
+    <display-name>Fine Living Network</display-name>
+    <display-name>FINE LIVING</display-name>
+  </channel>
+    <channel id="MAPO">
+    <display-name>Marco Polo TV</display-name>
+    <display-name>MAPO TV</display-name>
+  </channel>
+    <channel id="TRAVELXP">
+    <display-name>travelxp 4K</display-name>
+    <display-name>TRAVELXP</display-name>
+  </channel>
+    <channel id="HEALTH">
+    <display-name>Health TV</display-name>
+    <display-name>HEALTH</display-name>
+  </channel>
+    <channel id="RBTV">
+    <display-name>Rocket Beans TV</display-name>
+    <display-name>RBTV</display-name>
+  </channel>
+    <channel id="UHD1">
+    <display-name>UHD1</display-name>
+  </channel>
+    <channel id="TAG24">
+    <display-name>tagesschau24</display-name>
+    <display-name>TAG24</display-name>
+  </channel>
+    <channel id="NTV">
+    <display-name>n-tv</display-name>
+  </channel>
+    <channel id="WELT">
+    <display-name>WELT</display-name>
+  </channel>
+    <channel id="N24DOKU">
+    <display-name>N24 Doku</display-name>
+  </channel>
+    <channel id="K1DOKU">
+    <display-name>kabel eins Doku</display-name>
+    <display-name>K1 DOKU</display-name>
+  </channel>
+    <channel id="BBC">
+    <display-name>BBC World News</display-name>
+    <display-name>BBC</display-name>
+  </channel>
+    <channel id="BBC-N">
+    <display-name>BBC News</display-name>
+    <display-name>BBC-N</display-name>
+  </channel>
+    <channel id="BLM">
+    <display-name>Bloomberg Europe TV</display-name>
+    <display-name>BLOOM BERG</display-name>
+  </channel>
+    <channel id="CNBC">
+    <display-name>CNBC</display-name>
+  </channel>
+    <channel id="CNN">
+    <display-name>CNN International</display-name>
+    <display-name>CNN</display-name>
+  </channel>
+    <channel id="CNN-M">
+    <display-name>CNN Money</display-name>
+    <display-name>CNN-M</display-name>
+  </channel>
+    <channel id="CNN-T">
+    <display-name>CNN Türk</display-name>
+    <display-name>CNN-T</display-name>
+  </channel>
+    <channel id="ENGB">
+    <display-name>euronews (en)</display-name>
+    <display-name>EURO NEWS</display-name>
+  </channel>
+    <channel id="EURON">
+    <display-name>euronews (ger)</display-name>
+    <display-name>EURO NEWS</display-name>
+  </channel>
+    <channel id="ALJAZ">
+    <display-name>Al Jazeera</display-name>
+    <display-name>AL JAZ</display-name>
+  </channel>
+    <channel id="FR24E">
+    <display-name>France 24 (engl.)</display-name>
+    <display-name>FR 24E </display-name>
+  </channel>
+    <channel id="FR24F">
+    <display-name>France 24 (franz.)</display-name>
+    <display-name>FR 24F</display-name>
+  </channel>
+    <channel id="NHK">
+    <display-name>NHK World TV</display-name>
+    <display-name>NHK World</display-name>
+  </channel>
+    <channel id="DMC">
+    <display-name>DELUXE MUSIC</display-name>
+  </channel>
+    <channel id="DMF">
+    <display-name>Deutsches Musik Fernsehen</display-name>
+    <display-name>DMF</display-name>
+  </channel>
+    <channel id="MTV">
+    <display-name>MTV</display-name>
+  </channel>
+    <channel id="MTV-L">
+    <display-name>MTV Live HD</display-name>
+    <display-name>MTV LIVE</display-name>
+  </channel>
+    <channel id="VH1">
+    <display-name>VH1 Classic</display-name>
+  </channel>
+    <channel id="QVC">
+    <display-name>QVC</display-name>
+  </channel>
+    <channel id="QVCP">
+    <display-name>QVC2</display-name>
+    <display-name>QVC PLUS</display-name>
+  </channel>
+    <channel id="HSE">
+    <display-name>HSE24</display-name>
+  </channel>
+    <channel id="CH21">
+    <display-name>Channel21</display-name>
+    <display-name>CHANNEL 21</display-name>
+  </channel>
+    <channel id="123TV">
+    <display-name>123.tv</display-name>
+  </channel>
+    <channel id="SKLAR">
+    <display-name>Sonnenklar.TV</display-name>
+    <display-name>SKLAR</display-name>
+  </channel>
+    <channel id="HH1">
+    <display-name>Hamburg 1</display-name>
+    <display-name>HH 1</display-name>
+  </channel>
+    <channel id="TVM">
+    <display-name>münchen.tv</display-name>
+    <display-name>MUC TV</display-name>
+  </channel>
+    <channel id="TVB">
+    <display-name>tv.berlin</display-name>
+    <display-name>TV BERLIN</display-name>
+  </channel>
+    <channel id="LEITV">
+    <display-name>LEIPZIG FERNSEHEN</display-name>
+    <display-name>LEIPZIG</display-name>
+  </channel>
+    <channel id="RMTV">
+    <display-name>rheinmaintv</display-name>
+    <display-name>RM TV</display-name>
+  </channel>
+    <channel id="RNF">
+    <display-name>Rhein-Neckar Fernsehen</display-name>
+    <display-name>RNF</display-name>
+  </channel>
+    <channel id="ATV">
+    <display-name>ATV</display-name>
+  </channel>
+    <channel id="ATV2">
+    <display-name>ATV II</display-name>
+    <display-name>ATV2</display-name>
+  </channel>
+    <channel id="ATV-A">
+    <display-name>ATV Avrupa</display-name>
+    <display-name>ATV-A</display-name>
+  </channel>
+    <channel id="BBC1">
+    <display-name>BBC One</display-name>
+    <display-name>BBC1</display-name>
+  </channel>
+    <channel id="BBC2">
+    <display-name>BBC Two</display-name>
+    <display-name>BBC2</display-name>
+  </channel>
+    <channel id="BBC4">
+    <display-name>BBC Four</display-name>
+    <display-name>BBC4</display-name>
+  </channel>
+    <channel id="CPLUS">
+    <display-name>Canal+</display-name>
+    <display-name>CPLUS</display-name>
+  </channel>
+    <channel id="CPLUSC">
+    <display-name>Canal+ Cinéma</display-name>
+    <display-name>CPLUSC</display-name>
+  </channel>
+    <channel id="CPLUSD">
+    <display-name>Canal+ Décalé</display-name>
+    <display-name>CPLUSD</display-name>
+  </channel>
+    <channel id="CPLUSS">
+    <display-name>Canal+ Sport</display-name>
+    <display-name>CPLUSS</display-name>
+  </channel>
+    <channel id="C5">
+    <display-name>Canale 5</display-name>
+    <display-name>C5</display-name>
+  </channel>
+    <channel id="ORF1">
+    <display-name>ORF 1</display-name>
+    <display-name>ORF1</display-name>
+  </channel>
+    <channel id="ORF2">
+    <display-name>ORF 2</display-name>
+    <display-name>ORF2</display-name>
+  </channel>
+    <channel id="ORF3">
+    <display-name>ORF III</display-name>
+    <display-name>ORF3</display-name>
+  </channel>
+    <channel id="ORFSP">
+    <display-name>ORF SPORT +</display-name>
+    <display-name>ORF SPORT+</display-name>
+  </channel>
+    <channel id="OE24TV">
+    <display-name>oe24.TV</display-name>
+    <display-name>OE24</display-name>
+  </channel>
+    <channel id="PULS4">
+    <display-name>PULS 4</display-name>
+    <display-name>PULS4</display-name>
+  </channel>
+    <channel id="SF1">
+    <display-name>SRF 1</display-name>
+    <display-name>SRF1</display-name>
+  </channel>
+    <channel id="STTV">
+    <display-name>STAR TV</display-name>
+  </channel>
+    <channel id="SF2">
+    <display-name>SRF zwei</display-name>
+    <display-name>SRF2</display-name>
+  </channel>
+    <channel id="3PLUS">
+    <display-name>3+</display-name>
+  </channel>
+    <channel id="PULS8">
+    <display-name>PULS acht</display-name>
+    <display-name>PULS 8</display-name>
+  </channel>
+    <channel id="DR1">
+    <display-name>DR1</display-name>
+  </channel>
+    <channel id="BE1">
+    <display-name>Belgien 1</display-name>
+    <display-name>BELGIEN</display-name>
+  </channel>
+    <channel id="TV2">
+    <display-name>TV2</display-name>
+  </channel>
+    <channel id="TV5">
+    <display-name>TV5 Monde</display-name>
+    <display-name>TV5</display-name>
+  </channel>
+    <channel id="SHOT">
+    <display-name>Show Turk</display-name>
+    <display-name>SHOT</display-name>
+  </channel>
+    <channel id="TMAX">
+    <display-name>Turkmax Gurme</display-name>
+    <display-name>TMAX</display-name>
+  </channel>
+    <channel id="K7I">
+    <display-name>Kanal 7 Int</display-name>
+    <display-name>K7I</display-name>
+  </channel>
+    <channel id="EURO-D">
+    <display-name>Euro D</display-name>
+    <display-name>EURO-D</display-name>
+  </channel>
+    <channel id="EURO-S">
+    <display-name>Euro Star</display-name>
+    <display-name>EURO-S</display-name>
+  </channel>
+    <channel id="FRA2">
+    <display-name>France 2</display-name>
+    <display-name>FRA2</display-name>
+  </channel>
+    <channel id="FRA3">
+    <display-name>France 3</display-name>
+    <display-name>FRA3</display-name>
+  </channel>
+    <channel id="FRA4">
+    <display-name>France 4</display-name>
+    <display-name>FRA4</display-name>
+  </channel>
+    <channel id="FRA5">
+    <display-name>France 5</display-name>
+    <display-name>FRA5</display-name>
+  </channel>
+    <channel id="FRAO">
+    <display-name>France Ô</display-name>
+    <display-name>FRAO</display-name>
+  </channel>
+    <channel id="CIN">
+    <display-name>Sky Cinema</display-name>
+  </channel>
+    <channel id="CIN24">
+    <display-name>Sky Cinema+24</display-name>
+    <display-name>SKY CIN+24</display-name>
+  </channel>
+    <channel id="SKY-F">
+    <display-name>Sky Family</display-name>
+    <display-name>SKY-F</display-name>
+  </channel>
+    <channel id="SKY-A">
+    <display-name>Sky Action</display-name>
+  </channel>
+    <channel id="SKY-C">
+    <display-name>Sky Comedy</display-name>
+  </channel>
+    <channel id="SKY-N">
+    <display-name>Sky Nostalgie</display-name>
+    <display-name>SKY NOSTALG</display-name>
+  </channel>
+    <channel id="SKY-H">
+    <display-name>Sky Hits HD</display-name>
+    <display-name>SKY HITS</display-name>
+  </channel>
+    <channel id="SKYCS">
+    <display-name>Sky Cinema Special HD</display-name>
+    <display-name>SKY SPEC</display-name>
+  </channel>
+    <channel id="SKYTH">
+    <display-name>Sky Cinema Thriller</display-name>
+    <display-name>SKY THRILLER</display-name>
+  </channel>
+    <channel id="TNT-F">
+    <display-name>TNT Film</display-name>
+  </channel>
+    <channel id="KINOW">
+    <display-name>KinoweltTV</display-name>
+    <display-name>KINO WELT</display-name>
+  </channel>
+    <channel id="SKY-S">
+    <display-name>Sky select</display-name>
+  </channel>
+    <channel id="BLUM">
+    <display-name>Blue Movie</display-name>
+  </channel>
+    <channel id="BLUM2">
+    <display-name>Blue Movie 2</display-name>
+    <display-name>BLUE MOVIE2</display-name>
+  </channel>
+    <channel id="BLUM3">
+    <display-name>Blue Movie 3</display-name>
+    <display-name>BLUE MOVIE3</display-name>
+  </channel>
+    <channel id="BULI">
+    <display-name>Sky Sport Bundesliga</display-name>
+    <display-name>SKY BULI</display-name>
+  </channel>
+    <channel id="HDSPO">
+    <display-name>Sky Sport HD 1</display-name>
+    <display-name>SKY S-HD1</display-name>
+  </channel>
+    <channel id="SHD2">
+    <display-name>Sky Sport HD 2</display-name>
+    <display-name>SKY S-HD2</display-name>
+  </channel>
+    <channel id="SPO-A">
+    <display-name>Sky Sport Austria</display-name>
+    <display-name>SKY SPORT-A</display-name>
+  </channel>
+    <channel id="SKY1">
+    <display-name>Sky 1</display-name>
+    <display-name>SKY1</display-name>
+  </channel>
+    <channel id="SKYAT">
+    <display-name>Sky Atlantic HD</display-name>
+    <display-name>SKY ALTANT</display-name>
+  </channel>
+    <channel id="#SKYAT-1">
+    <display-name>Sky Atlantic HD-1</display-name>
+  </channel>
+    <channel id="SKY-K">
+    <display-name>Sky Krimi</display-name>
+  </channel>
+    <channel id="AXN">
+    <display-name>AXN</display-name>
+  </channel>
+    <channel id="UNIVE">
+    <display-name>Universal Channel HD</display-name>
+    <display-name>UNI CHANNEL</display-name>
+  </channel>
+    <channel id="HISHD">
+    <display-name>History HD</display-name>
+    <display-name>HISTORY</display-name>
+  </channel>
+    <channel id="SP-GE">
+    <display-name>Spiegel Geschichte</display-name>
+    <display-name>SPIEGEL GESCH</display-name>
+  </channel>
+    <channel id="MOVTV">
+    <display-name>Motorvision TV</display-name>
+    <display-name>MOTOR VISION</display-name>
+  </channel>
+    <channel id="HDDIS">
+    <display-name>Discovery HD</display-name>
+    <display-name>DISCOVERY</display-name>
+  </channel>
+    <channel id="N-GHD">
+    <display-name>Nat Geo HD</display-name>
+    <display-name>NAT GEO</display-name>
+  </channel>
+    <channel id="N-GW">
+    <display-name>NAT GEO WILD</display-name>
+    <display-name>NATGEO WILD</display-name>
+  </channel>
+    <channel id="RTL-C">
+    <display-name>RTL Crime</display-name>
+  </channel>
+    <channel id="13TH">
+    <display-name>13th Street Universal</display-name>
+    <display-name>13TH STREET</display-name>
+  </channel>
+    <channel id="SCIFI">
+    <display-name>Syfy</display-name>
+  </channel>
+    <channel id="FOX">
+    <display-name>FOX</display-name>
+  </channel>
+    <channel id="TNT-S">
+    <display-name>TNT Serie</display-name>
+  </channel>
+    <channel id="TNT-C">
+    <display-name>TNT Comedy</display-name>
+  </channel>
+    <channel id="CRIN">
+    <display-name>CRIME + INVESTIGATION</display-name>
+    <display-name>CRIME INVEST</display-name>
+  </channel>
+    <channel id="RTL-L">
+    <display-name>RTL Living</display-name>
+  </channel>
+    <channel id="PASS">
+    <display-name>RTL Passion</display-name>
+  </channel>
+    <channel id="ROM">
+    <display-name>Romance TV</display-name>
+    <display-name>ROM</display-name>
+  </channel>
+    <channel id="HEIMA">
+    <display-name>Heimatkanal</display-name>
+    <display-name>HEIMAT KANAL</display-name>
+  </channel>
+    <channel id="C-NET">
+    <display-name>Cartoon Network</display-name>
+    <display-name>C-NET</display-name>
+  </channel>
+    <channel id="DJUN">
+    <display-name>Disney Junior</display-name>
+  </channel>
+    <channel id="JUNIO">
+    <display-name>Junior</display-name>
+  </channel>
+    <channel id="E!">
+    <display-name>E! Entertainment</display-name>
+    <display-name>E!</display-name>
+  </channel>
+    <channel id="CLASS">
+    <display-name>Classica</display-name>
+  </channel>
+    <channel id="BUTV">
+    <display-name>Beate-Uhse.TV</display-name>
+    <display-name>BEATE UHSE</display-name>
+  </channel>
+    <channel id="ADULT">
+    <display-name>Adult Channel</display-name>
+  </channel>
+    <channel id="APLAN">
+    <display-name>Animal Planet</display-name>
+  </channel>
+    <channel id="BBC-E">
+    <display-name>BBC Entertainment</display-name>
+    <display-name>BBC ENT</display-name>
+  </channel>
+    <channel id="FATV">
+    <display-name>Fashion TV</display-name>
+  </channel>
+    <channel id="GEO">
+    <display-name>GEO Television</display-name>
+    <display-name>GEO</display-name>
+  </channel>
+    <channel id="LAUNE">
+    <display-name>Gute Laune TV</display-name>
+    <display-name>GUTE LAUNE</display-name>
+  </channel>
+    <channel id="JUKE">
+    <display-name>Jukebox</display-name>
+    <display-name>JUKE BOX</display-name>
+  </channel>
+    <channel id="LUSTP">
+    <display-name>LUST PUR</display-name>
+  </channel>
+    <channel id="MEZZO">
+    <display-name>Mezzo</display-name>
+  </channel>
+    <channel id="MTV-B">
+    <display-name>MTV Base</display-name>
+  </channel>
+    <channel id="MTV-D">
+    <display-name>MTV Dance</display-name>
+  </channel>
+    <channel id="MTV-H">
+    <display-name>MTV Hits</display-name>
+  </channel>
+    <channel id="MTV-N">
+    <display-name>MTV Brand New</display-name>
+    <display-name>MTV-N</display-name>
+  </channel>
+    <channel id="NAUCH">
+    <display-name>Nautical Channel</display-name>
+    <display-name>NAUT</display-name>
+  </channel>
+    <channel id="PBOY">
+    <display-name>Playboy TV</display-name>
+    <display-name>PLAY BOY</display-name>
+  </channel>
+    <channel id="K1CLA">
+    <display-name>kabel eins classics</display-name>
+    <display-name>K1 CLASSICS</display-name>
+  </channel>
+    <channel id="SAT1E">
+    <display-name>SAT.1 emotions</display-name>
+    <display-name>SAT.1 EMOT</display-name>
+  </channel>
+    <channel id="PRO7F">
+    <display-name>ProSieben Fun</display-name>
+    <display-name>PRO7 FUN</display-name>
+  </channel>
+    <channel id="NOWUS">
+    <display-name>NOW US</display-name>
+  </channel>
+    <channel id="VOXUP">
+    <display-name>VOXup</display-name>
+    <display-name>VOX UP</display-name>
+  </channel>
+    <channel id="RCK">
+    <display-name>RCK TV</display-name>
+  </channel>
+    <channel id="SILVE">
+    <display-name>Silverline</display-name>
+    <display-name>SILVER LINE</display-name>
+  </channel>
+    <channel id="SONY">
+    <display-name>Sony Entertainment Television</display-name>
+    <display-name>SONY</display-name>
+  </channel>
+    <channel id="SPTVW">
+    <display-name>Spiegel TV Wissen</display-name>
+    <display-name>SPIEGEL WISSEN</display-name>
+  </channel>
+    <channel id="TRACE">
+    <display-name>Trace TV</display-name>
+  </channel>
+    <channel id="DR2">
+    <display-name>DR2</display-name>
+  </channel>
+    <channel id="SKY-CO">
+    <display-name>Sky Comedy</display-name>
+    <display-name>SCOMEDY</display-name>
+  </channel>
+    <channel id="SKY-CR">
+    <display-name>Sky Crime</display-name>
+  </channel>
+    <channel id="SKYF1">
+    <display-name>Sky Sport F1</display-name>
+    <display-name>SKY F1</display-name>
+  </channel>
+    <channel id="allgau.tv.de">
+    <display-name lang="de">Allgäu TV</display-name>
+  </channel>
+    <channel id="AnixeSerie.de">
+    <display-name lang="de">ANIXE Serie HD</display-name>
+  </channel>
+    <channel id="Anixe.de">
+    <display-name lang="de">ANIXE SD</display-name>
+  </channel>
+    <channel id="FrankenTV.de">
+    <display-name lang="de">Franken TV</display-name>
+  </channel>
+    <channel id="MDRS-Anhalt.de">
+    <display-name lang="de">MDR S-Anhalt</display-name>
+  </channel>
+    <channel id="UHD1.de">
+    <display-name lang="de">UHD1</display-name>
+  </channel>
+    <channel id="123.tv.de">
+    <display-name lang="de">1-2-3.tv HD</display-name>
+  </channel>
+    <channel id="a.tv.de">
+    <display-name lang="de">Augsburg TV (a.tv)</display-name>
+  </channel>
+    <channel id="Channel21.de">
+    <display-name lang="de">Channel21</display-name>
+  </channel>
+    <channel id="Pearl.tv.de">
+    <display-name lang="de">Pearl.tv HD</display-name>
+  </channel>
+    <channel id="QVCPlus.de">
+    <display-name lang="de">QVC Plus</display-name>
+  </channel>
+    <channel id="rheinmaintv.de">
+    <display-name lang="de">rheinmaintv</display-name>
+  </channel>
+    <channel id="tvo.de">
+    <display-name lang="de">TV Oberfranken</display-name>
+  </channel>
+    <channel id="TVAOstbayern.de">
+    <display-name lang="de">TVA Ostbayern</display-name>
+  </channel>
+    <channel id="HSE24Extra.de">
+    <display-name lang="de">HSE24 Extra</display-name>
+  </channel>
+    <channel id="JuweloTV.de">
+    <display-name lang="de">Juwelo</display-name>
+  </channel>
+    <channel id="ComedyCentralVIVA.de">
+    <display-name lang="de">VIVA/COMEDY CENTRAL</display-name>
+  </channel>
+    <channel id="Hamburg1.de">
+    <display-name lang="de">HH 1</display-name>
+  </channel>
+    <channel id="Nick.de">
+    <display-name lang="de">Nick/ComCentral</display-name>
+  </channel>
+    <channel id="TVBerlin.de">
+    <display-name lang="de">TV.BERLIN</display-name>
+  </channel>
+    <channel id="niederbayerntv.de">
+    <display-name lang="de">Niederbayern TV</display-name>
+  </channel>
+    <channel id="OberpfalzTV.de">
+    <display-name lang="de">Oberpfalz TV</display-name>
+  </channel>
+    <channel id="Oberbayern.de">
+    <display-name lang="de">Regionalfernsehen Oberbayern (RFO)</display-name>
+  </channel>
+    <channel id="3sat.de">
+    <display-name lang="de">3sat</display-name>
+  </channel>
+    <channel id="ARTE.de">
+    <display-name lang="de">ARTE</display-name>
+  </channel>
+    <channel id="BR.de">
+    <display-name lang="de">BR Fernsehen Süd</display-name>
+  </channel>
+    <channel id="ARD-alpha.de">
+    <display-name lang="de">ard-alpha</display-name>
+  </channel>
+    <channel id="disneychannel.de">
+    <display-name lang="de">Disney Channel</display-name>
+  </channel>
+    <channel id="DMax.de">
+    <display-name lang="de">DMAX</display-name>
+  </channel>
+    <channel id="Eurosport1.de">
+    <display-name lang="de">Eurosport1</display-name>
+  </channel>
+    <channel id="Eurosport2.de">
+    <display-name lang="de">Eurosport2</display-name>
+  </channel>
+    <channel id="HR.de">
+    <display-name lang="de">hr-fernsehen</display-name>
+  </channel>
+    <channel id="HSE24.de">
+    <display-name lang="de">HSE24</display-name>
+  </channel>
+    <channel id="Kabel.de">
+    <display-name lang="de">kabel eins</display-name>
+  </channel>
+    <channel id="KabelEinsClassic.de">
+    <display-name lang="de">kabel eins class</display-name>
+  </channel>
+    <channel id="KabelEinsDoku.de">
+    <display-name lang="de">kabel eins Doku</display-name>
+  </channel>
+    <channel id="Kika.de">
+    <display-name lang="de">KIKA</display-name>
+  </channel>
+    <channel id="MTVGermany.de">
+    <display-name lang="de">MTV</display-name>
+  </channel>
+    <channel id="MunchenTV.de">
+    <display-name lang="de">München TV</display-name>
+  </channel>
+    <channel id="Nickelodeon.de">
+    <display-name lang="de">Nickelodeon</display-name>
+  </channel>
+    <channel id="ntv.de">
+    <display-name lang="de">n-tv</display-name>
+  </channel>
+    <channel id="Pro7.de">
+    <display-name lang="de">ProSieben</display-name>
+  </channel>
+    <channel id="ProSiebenMaxx.de">
+    <display-name lang="de">ProSieben Maxx</display-name>
+  </channel>
+    <channel id="QVC.de">
+    <display-name lang="de">QVC</display-name>
+  </channel>
+    <channel id="RadioBremen.de">
+    <display-name lang="de">Radio Bremen TV</display-name>
+  </channel>
+    <channel id="rbbBerlin.de">
+    <display-name lang="de">rbb Berlin</display-name>
+  </channel>
+    <channel id="RTL.de">
+    <display-name lang="de">RTL</display-name>
+  </channel>
+    <channel id="RTLNitro.de">
+    <display-name lang="de">RTL Nitro</display-name>
+  </channel>
+    <channel id="RTLPlus.de">
+    <display-name lang="de">RTL Plus</display-name>
+  </channel>
+    <channel id="RTL2.de">
+    <display-name lang="de">RTL II</display-name>
+  </channel>
+    <channel id="Sat1.de">
+    <display-name lang="de">Sat.1</display-name>
+  </channel>
+    <channel id="Sat1Gold.de">
+    <display-name lang="de">Sat1 Gold</display-name>
+  </channel>
+    <channel id="ServusHD.de">
+    <display-name lang="de">ServusTV</display-name>
+  </channel>
+    <channel id="Sixx.de">
+    <display-name lang="de">sixx</display-name>
+  </channel>
+    <channel id="SkySportNewsHD.de">
+    <display-name lang="de">Sky Sport News HD</display-name>
+  </channel>
+    <channel id="Sport1HD.de">
+    <display-name lang="de">SPORT1</display-name>
+  </channel>
+    <channel id="SRFernsehen.de">
+    <display-name lang="de">SR Fernsehen</display-name>
+  </channel>
+    <channel id="SuperRTL.de">
+    <display-name lang="de">Super RTL</display-name>
+  </channel>
+    <channel id="SWR-rp.de">
+    <display-name lang="de">SWR Fernsehen RP</display-name>
+  </channel>
+    <channel id="Tele5.de">
+    <display-name lang="de">Tele 5</display-name>
+  </channel>
+    <channel id="TLC.de">
+    <display-name lang="de">TLC</display-name>
+  </channel>
+    <channel id="Vox.de">
+    <display-name lang="de">VOX</display-name>
+  </channel>
+    <channel id="VOXup.de">
+    <display-name lang="de">VOXup</display-name>
+  </channel>
+    <channel id="WELT.de">
+    <display-name lang="de">WELT</display-name>
+  </channel>
+    <channel id="ZDFneo.de">
+    <display-name lang="de">ZDFneo</display-name>
+  </channel>
+    <channel id="N24Doku.de">
+    <display-name lang="de">N24 Doku</display-name>
+  </channel>
+    <channel id="DeutschesMusikFernsehen.de">
+    <display-name lang="de">deutsches-musik-fernsehen</display-name>
+  </channel>
+    <channel id="eoTV.de">
+    <display-name lang="de">eoTV</display-name>
+  </channel>
+    <channel id="One.de">
+    <display-name lang="de">One</display-name>
+  </channel>
+    <channel id="HGTV.de">
+    <display-name lang="de">HGTV</display-name>
+  </channel>
+    <channel id="DeLuxeMusic.de">
+    <display-name lang="de">DELUXE MUSIC</display-name>
+  </channel>
+    <channel id="FamilyTV.de">
+    <display-name lang="de">Family TV</display-name>
+  </channel>
+    <channel id="ARD.de">
+    <display-name lang="de">Das Erste</display-name>
+  </channel>
+    <channel id="ndr.de">
+    <display-name lang="de">NDR Fernsehen NDS</display-name>
+  </channel>
+    <channel id="phoenix.de">
+    <display-name lang="de">phoenix</display-name>
+  </channel>
+    <channel id="SWR.de">
+    <display-name lang="de">SWR Fernsehen BW</display-name>
+  </channel>
+    <channel id="tagesschau24.de">
+    <display-name lang="de">tagesschau24</display-name>
+  </channel>
+    <channel id="BibelTV.de">
+    <display-name lang="de">Bibel TV</display-name>
+  </channel>
+    <channel id="WDR.de">
+    <display-name lang="de">WDR Fernsehen</display-name>
+  </channel>
+    <channel id="ZDF.de">
+    <display-name lang="de">ZDF</display-name>
+  </channel>
+    <channel id="ZDFinfo.de">
+    <display-name lang="de">ZDFinfokanal</display-name>
+  </channel>
+    <channel id="TOGGOplus.de">
+    <display-name lang="de">TOGGOplus</display-name>
+  </channel>
+    <channel id="tvingolstadt.de">
+    <display-name lang="de">TV Ingolstadt</display-name>
+  </channel>
+    <channel id="tvmainfranken.de">
+    <display-name lang="de">TV Mainfranken</display-name>
+  </channel>
+    <channel id="Wetterfernsehen.de">
+    <display-name lang="de">Wetter Fernsehen</display-name>
+  </channel>
+    <channel id="EWTN.de">
+    <display-name lang="de">EWTN</display-name>
+  </channel>
+    <channel id="Sat1Comedy.de">
+    <display-name lang="de">Sat1 Emotions</display-name>
+  </channel>
+    <channel id="BabyTV.de">
+    <display-name lang="de">BabyTV</display-name>
+  </channel>
+    <channel id="QVCStyle.de">
+    <display-name lang="de">QVC Style</display-name>
+  </channel>
+    <channel id="BBCEntertainment.de">
+    <display-name lang="de">BBC Entertainment</display-name>
+  </channel>
+    <channel id="Health.de">
+    <display-name lang="de">Health</display-name>
+  </channel>
+    <channel id="Jukebox.de">
+    <display-name lang="de">Jukebox</display-name>
+  </channel>
+    <channel id="LustPur.de">
+    <display-name lang="de">Lust Pur</display-name>
+  </channel>
+    <channel id="MTVBase.de">
+    <display-name lang="de">MTV Base</display-name>
+  </channel>
+    <channel id="NickJr.de">
+    <display-name lang="de">Nick Jr.</display-name>
+  </channel>
+    <channel id="RNF.de">
+    <display-name lang="de">Rhein-Neckar Fernsehen</display-name>
+  </channel>
+    <channel id="Sky1.de">
+    <display-name lang="de">Sky 1</display-name>
+  </channel>
+    <channel id="sportdigital.de">
+    <display-name lang="de">sportdigital</display-name>
+  </channel>
+    <channel id="SpiegelTVWissen.de">
+    <display-name lang="de">Spiegel TV Wissen</display-name>
+  </channel>
+    <channel id="TraceSportStars.de">
+    <display-name lang="de">Trace Sport</display-name>
+  </channel>
+    <channel id="TravelXP4k.de">
+    <display-name lang="de">TravelXP 4k</display-name>
+  </channel>
+    <channel id="Eurosport2Xtra.de">
+    <display-name lang="de">Eurosport 2 HD Xtra</display-name>
+  </channel>
+    <channel id="MotorVision.de">
+    <display-name lang="de">Motorvision</display-name>
+  </channel>
+    <channel id="NatGeoWild.de">
+    <display-name lang="de">Nat Geo Wild</display-name>
+  </channel>
+    <channel id="Nicktoons.de">
+    <display-name lang="de">NickToons</display-name>
+  </channel>
+    <channel id="ProSiebenFun.de">
+    <display-name lang="de">ProSieben Fun</display-name>
+  </channel>
+    <channel id="SkySelect.de">
+    <display-name lang="de">Sky Select</display-name>
+  </channel>
+    <channel id="SonnenKlar.de">
+    <display-name lang="de">sonnenklar.TV</display-name>
+  </channel>
+    <channel id="SonyEntertainmentTV.de">
+    <display-name lang="de">Sony Entertainment TV</display-name>
+  </channel>
+    <channel id="SpiegelGeschichte.de">
+    <display-name lang="de">Spiegel Geschichte</display-name>
+  </channel>
+    <channel id="Universal.de">
+    <display-name lang="de">Universal Channel</display-name>
+  </channel>
+    <channel id="AandE.de">
+    <display-name lang="de">A and E</display-name>
+  </channel>
+    <channel id="MelodieTV.at">
+    <display-name lang="de">Melodie TV</display-name>
+  </channel>
+    <channel id="FolxTV.de">
+    <display-name lang="de">Folx.TV</display-name>
+  </channel>
+    <channel id="Fox.de">
+    <display-name lang="de">FOX</display-name>
+  </channel>
+    <channel id="go.tv">
+    <display-name lang="de">gotv</display-name>
+  </channel>
+    <channel id="HopeChannel.de">
+    <display-name lang="de">HOPE Channel (Deutschland)</display-name>
+  </channel>
+    <channel id="RiC.de">
+    <display-name lang="de">RiC</display-name>
+  </channel>
+    <channel id="TNTSerie.de">
+    <display-name lang="de">TNT Serie</display-name>
+  </channel>
+    <channel id="WeltDerWunder.de">
+    <display-name lang="de">Welt der wunder</display-name>
+  </channel>
+    <channel id="CartoonNetwork.de">
+    <display-name lang="de">Cartoon Network</display-name>
+  </channel>
+    <channel id="RTLPassion.de">
+    <display-name lang="de">Passion</display-name>
+  </channel>
+    <channel id="SpiegelTV.de">
+    <display-name lang="de">Spiegel TV Digital</display-name>
+  </channel>
+    <channel id="FoxSerie.de">
+    <display-name lang="en">Fox Serie</display-name>
+  </channel>
+    <channel id="MotorTV.de">
+    <display-name lang="de">Motors TV</display-name>
+  </channel>
+    <channel id="Energy.ch">
+    <display-name lang="fr">Energy TV HD</display-name>
+  </channel>
+    <channel id="SkyAction.de">
+    <display-name lang="de">Sky Action</display-name>
+  </channel>
+    <channel id="SkyCinemaPlus24.de">
+    <display-name lang="de">Sky Cinema +24</display-name>
+  </channel>
+    <channel id="SkyCinema.de">
+    <display-name lang="de">Sky Cinema</display-name>
+  </channel>
+    <channel id="SkyKrimi.de">
+    <display-name lang="de">Sky Krimi</display-name>
+  </channel>
+    <channel id="SkyCinemaHits.de">
+    <display-name lang="de">Sky Cinema Hits</display-name>
+  </channel>
+    <channel id="SkyBundesliga1.de">
+    <display-name lang="de">Sky Fußball Bundesliga 1</display-name>
+  </channel>
+    <channel id="SkySportAustria.de">
+    <display-name lang="de">Sky Sport Austria</display-name>
+  </channel>
+    <channel id="SkySportAustria4.at">
+    <display-name lang="de">Sky Sport Austria 4</display-name>
+  </channel>
+    <channel id="SkySportAustria2.at">
+    <display-name lang="de">Sky Sport Austria 2</display-name>
+  </channel>
+    <channel id="SkySportAustria3.at">
+    <display-name lang="de">Sky Sport Austria 3</display-name>
+  </channel>
+    <channel id="SkySport3.de">
+    <display-name lang="de">SkySport3 HD</display-name>
+  </channel>
+    <channel id="SkySport4.de">
+    <display-name lang="de">SkySport4 HD</display-name>
+  </channel>
+    <channel id="SkySport5.de">
+    <display-name lang="de">SkySport5 HD</display-name>
+  </channel>
+    <channel id="SkySport6.de">
+    <display-name lang="de">SkySport6 HD</display-name>
+  </channel>
+    <channel id="SkySport7.de">
+    <display-name lang="de">SkySport7 HD</display-name>
+  </channel>
+    <channel id="SkySport8.de">
+    <display-name lang="de">SkySport8 HD</display-name>
+  </channel>
+    <channel id="SkySport9.de">
+    <display-name lang="de">SkySport9 HD</display-name>
+  </channel>
+    <channel id="DAZN1BarHD.de">
+    <display-name lang="de">DAZN</display-name>
+  </channel>
+    <channel id="SkySport1.de">
+    <display-name lang="de">Sky Sport 1</display-name>
+  </channel>
+    <channel id="SkySport2.de">
+    <display-name lang="de">Sky Sport 2</display-name>
+  </channel>
+    <channel id="SkyCinemaFamily.de">
+    <display-name lang="de">Sky Cinema Family</display-name>
+  </channel>
+    <channel id="SkyCinemaClassics.de">
+    <display-name lang="de">Sky Cinema Classics</display-name>
+  </channel>
+    <channel id="SkyAtlanticHD.de">
+    <display-name lang="de">Sky Atlantic HD</display-name>
+  </channel>
+    <channel id="SkyCinemaSpecial.de">
+    <display-name lang="de">Sky Cinema Best Of 2019</display-name>
+  </channel>
+    <channel id="SkyCinemaThriller.de">
+    <display-name lang="de">Sky Cinema Thriller HD</display-name>
+  </channel>
+    <channel id="SkyBundesliga2.de">
+    <display-name lang="de">Sky Sport Bundesliga 2 HD</display-name>
+  </channel>
+    <channel id="SkyBundesliga3.de">
+    <display-name lang="de">Sky Sport Bundesliga 3 HD</display-name>
+  </channel>
+    <channel id="SkyBundesliga4.de">
+    <display-name lang="de">Sky Sport Bundesliga 4 HD</display-name>
+  </channel>
+    <channel id="SkyBundesliga5.de">
+    <display-name lang="de">Sky Sport Bundesliga 5 HD</display-name>
+  </channel>
+    <channel id="SkyBundesliga6.de">
+    <display-name lang="de">Sky Sport Bundesliga 6 HD</display-name>
+  </channel>
+    <channel id="SkyBundesliga7.de">
+    <display-name lang="de">Sky Sport Bundesliga 7 HD</display-name>
+  </channel>
+    <channel id="SkyBundesliga8.de">
+    <display-name lang="de">Sky Sport Bundesliga 8 HD</display-name>
+  </channel>
+    <channel id="SkyBundesliga9.de">
+    <display-name lang="de">Sky Sport Bundesliga 9 HD</display-name>
+  </channel>
+    <channel id="SkyBundesliga10.de">
+    <display-name lang="de">Sky Sport Bundesliga 10 HD</display-name>
+  </channel>
+    <channel id="SkySport10.de">
+    <display-name lang="de">SkySport10 HD</display-name>
+  </channel>
+    <channel id="SkySport11.de">
+    <display-name lang="de">SkySport11 HD</display-name>
+  </channel>
+    <channel id="Eurosport360HD1.de">
+    <display-name lang="de">Eurosport360 HD 1</display-name>
+  </channel>
+    <channel id="Eurosport360HD2.de">
+    <display-name lang="de">Eurosport360 HD 2</display-name>
+  </channel>
+    <channel id="Eurosport360HD3.de">
+    <display-name lang="de">Eurosport360 HD 3</display-name>
+  </channel>
+    <channel id="Eurosport360HD4.de">
+    <display-name lang="de">Eurosport360 HD 4</display-name>
+  </channel>
+    <channel id="Eurosport360HD5.de">
+    <display-name lang="de">Eurosport360 HD 5</display-name>
+  </channel>
+    <channel id="Eurosport360HD6.de">
+    <display-name lang="de">Eurosport360 HD 6</display-name>
+  </channel>
+    <channel id="Eurosport360HD7.de">
+    <display-name lang="de">Eurosport360 HD 7</display-name>
+  </channel>
+    <channel id="Eurosport360HD8.de">
+    <display-name lang="de">Eurosport360 HD 8</display-name>
+  </channel>
+    <channel id="Eurosport360HD9.de">
+    <display-name lang="de">Eurosport360 HD 9</display-name>
+  </channel>
+    <channel id="SkySportUHD.de">
+    <display-name lang="de">Sky Sport UHD</display-name>
+  </channel>
+    <channel id="SkySportBundesligaUHD.de">
+    <display-name lang="de">Sky Sport Bundesliga UHD</display-name>
+  </channel>
+    <channel id="SkySport12.de">
+    <display-name lang="de">SkySport12 HD</display-name>
+  </channel>
+    <channel id="SkySport13.de">
+    <display-name lang="de">SkySport13 HD</display-name>
+  </channel>
+    <channel id="SkySport14.de">
+    <display-name lang="de">SkySport14 HD</display-name>
+  </channel>
+    <channel id="SkySerienShows.de">
+    <display-name lang="en">Sky Serien and Shows HD</display-name>
+  </channel>
+    <channel id="SkyPremieren.de">
+    <display-name lang="de">Sky Cinema Premieren</display-name>
+  </channel>
+    <channel id="SkyCinemaBestOf.de">
+    <display-name lang="de">Sky Cinema Best Of HD</display-name>
+  </channel>
+    <channel id="SkyCinemaFun.de">
+    <display-name lang="de">Sky Cinema Fun</display-name>
+  </channel>
+    <channel id="SkySportF1.de">
+    <display-name lang="de">Sky Sport F1 HD</display-name>
+  </channel>
+    <channel id="SkyComedy.de">
+    <display-name lang="de">Sky Comedy</display-name>
+  </channel>
+    <channel id="SkyCrime.de">
+    <display-name lang="de">Sky Crime HD</display-name>
+  </channel>
+    <channel id="blueSportEvent1.ch">
+    <display-name lang="de">blue Sport Event 1</display-name>
+  </channel>
+    <channel id="MYSPORTS1D.ch">
+    <display-name lang="de">MySports 1 D</display-name>
+  </channel>
+    <channel id="MYSPORTSD.ch">
+    <display-name lang="de">MySports One D</display-name>
+  </channel>
+    <channel id="MYSPORTS2D.ch">
+    <display-name lang="de">MySports 2 D</display-name>
+  </channel>
+    <channel id="MYSPORTS3D.ch">
+    <display-name lang="de">MySports 3 D</display-name>
+  </channel>
+    <channel id="MYSPORTS4D.ch">
+    <display-name lang="de">MySports 4 D</display-name>
+  </channel>
+    <channel id="MYSPORTS5D.ch">
+    <display-name lang="de">MySports 5 D</display-name>
+  </channel>
+    <channel id="MYSPORTS6D.ch">
+    <display-name lang="de">MySports 6 D</display-name>
+  </channel>
+    <channel id="MYSPORTS7D.ch">
+    <display-name lang="de">MySports 7 D</display-name>
+  </channel>
+    <channel id="MYSPORTS8D.ch">
+    <display-name lang="de">MySports 8 D</display-name>
+  </channel>
+    <channel id="blueSportEvent2.ch">
+    <display-name lang="de">blue Sport Event 2</display-name>
+  </channel>
+    <channel id="eSports1.de">
+    <display-name lang="de">eSports1</display-name>
+  </channel>
+    <channel id="SPORT1plus.de">
+    <display-name lang="de">SPORT1+</display-name>
+  </channel>
+    <channel id="TCRMCSportAccess1.ch">
+    <display-name lang="fr">RMC Sport Access 1</display-name>
+  </channel>
+    <channel id="TCSport1.ch">
+    <display-name lang="de">TC Sport 1</display-name>
+  </channel>
+    <channel id="TCSport2.ch">
+    <display-name lang="de">Teleclub Sport 2 / Sky Sport 2</display-name>
+  </channel>
+    <channel id="TCSport3.ch">
+    <display-name lang="de">TC Sport 3 / Sky Sport 1</display-name>
+  </channel>
+    <channel id="TCCinema.ch">
+    <display-name lang="de">Teleclub Cinema</display-name>
+  </channel>
+    <channel id="TCEmotion.ch">
+    <display-name lang="de">Teleclub Emotion</display-name>
+  </channel>
+    <channel id="TCAction.ch">
+    <display-name lang="de">Teleclub Action</display-name>
+  </channel>
+    <channel id="SkyAtlanticPlus1.de">
+    <display-name lang="de">Sky Atlantic HD +1</display-name>
+  </channel>
+    <channel id="SkyCinemaPlus1.de">
+    <display-name lang="de">Sky Cinema +1</display-name>
+  </channel>
+    <channel id="SkyEmotion.de">
+    <display-name lang="de">Sky Emotion</display-name>
+  </channel>
+    <channel id="SkyNostalgie.de">
+    <display-name lang="de">Sky Nostalgie</display-name>
+  </channel>
+    <channel id="SkySelect1.de">
+    <display-name lang="de">Sky Select 1</display-name>
+  </channel>
+    <channel id="SkySelect2.de">
+    <display-name lang="de">Sky Select 2</display-name>
+  </channel>
+    <channel id="SkySelect3.de">
+    <display-name lang="de">Sky Select 3</display-name>
+  </channel>
+    <channel id="SkySelect4.de">
+    <display-name lang="de">Sky Select 4</display-name>
+  </channel>
+    <channel id="SkySelect5.de">
+    <display-name lang="de">Sky Select 5</display-name>
+  </channel>
+    <channel id="SkySelect6.de">
+    <display-name lang="de">Sky Select 6</display-name>
+  </channel>
+    <channel id="SkySelect7.de">
+    <display-name lang="de">Sky Select 7</display-name>
+  </channel>
+    <channel id="SkySelect8.de">
+    <display-name lang="de">Sky Select 8</display-name>
+  </channel>
+    <channel id="SkySelect9.de">
+    <display-name lang="de">Sky Select 9</display-name>
+  </channel>
+  
